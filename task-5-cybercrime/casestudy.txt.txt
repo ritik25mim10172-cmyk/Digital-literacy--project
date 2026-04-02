@@ -1,0 +1,19 @@
+Title: Fake Payment Screenshot Scam
+
+UPI fraud is a common cybercrime in India where scammers trick people into believing they have received money. One typical method involves fake payment screenshots.
+
+In this scam, the fraudster first contacts the victim, often pretending to be a buyer on platforms like OLX or Instagram. They agree to purchase an item and ask for the seller’s UPI ID. Instead of actually transferring money, they send a fake payment screenshot showing a successful transaction. Sometimes, they also create urgency by saying “check quickly” or “network delay hai.”
+
+Step-by-step, the scam works like this:
+
+Fraudster finds a seller online.
+Initiates conversation and gains trust.
+Sends a fake payment screenshot.
+Pressures the victim to deliver the product quickly.
+Victim realizes later that no money was received.
+
+College students and small online sellers are common targets because they often rely on quick digital payments and may not verify transactions properly.
+
+The consequences include financial loss, stress, and sometimes misuse of personal details shared during the transaction. In some cases, repeated scams can lead to larger fraud networks exploiting victims.
+
+This type of cybercrime highlights the importance of verifying payments directly in your bank or UPI app instead of trusting screenshots.
