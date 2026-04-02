@@ -1,1 +1,5 @@
+## Task 2: Student Digital Portfolio
 
+For this task, I created and updated my profiles on GitHub, LinkedIn, and Kaggle to build a professional digital portfolio. GitHub is used for storing and managing code, where I created a profile README to introduce myself and share my learning goals. LinkedIn is a professional networking platform where I added my education details, including my degree, institution, and expected graduation year. Kaggle is a platform for data science and machine learning, where I created a profile to explore datasets and improve my analytical skills.
+
+Each platform plays an important role in building a strong digital presence. Over the next four years, I plan to regularly update my GitHub with projects and assignments, use LinkedIn to connect with professionals and explore internship opportunities, and use Kaggle to practice data analysis and participate in competitions. This task helped me understand the importance of maintaining a professional online presence for future career growth.
